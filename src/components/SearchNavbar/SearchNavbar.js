@@ -4,8 +4,7 @@ const SearchNavbar = () => {
   return (
     <>
       <div className="container">
-        hghyfy
-        <h2>ghfhgfftfkjkljkl</h2>
+        <h1>Search navbar</h1>
       </div>
     </>
   );
